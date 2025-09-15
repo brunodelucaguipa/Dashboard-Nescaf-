@@ -1,2 +1,2 @@
-# dashboard.html
+# index.html
 dashboard.html
